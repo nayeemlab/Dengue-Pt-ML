@@ -1,0 +1,1042 @@
+,DengueStatus,AgeGroup,Sex,MaritalStatus,highest_edu,IncomeMonthly,Hypertension,Diabetes,HeartDisease,OtherDiseases,AbdominalPain,Diarrhea,Vomiting,Lethargy,Headache,Rash,URTI,HemorrhagicSymptoms,MSKSymptoms
+1,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No
+2,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+3,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+4,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+5,Severe,30-59,Male,Married,Secondary,Medium,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+6,Mild_Moderate,30-59,Male,Married,Below Primary,Low,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes
+7,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+8,Mild_Moderate,NA,Male,Unmarried,NA,Low,No,No,No,No,No,No,No,No,No,No,No,No,No
+9,Mild_Moderate,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+10,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+11,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+12,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+13,Mild_Moderate,NA,Female,Unmarried,NA,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No
+14,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+15,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+16,Mild_Moderate,15-29,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+17,Mild_Moderate,15-29,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+18,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+19,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,No,No,No,No,No
+20,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No
+21,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+22,Severe,59+,Male,Married,Higher,Medium,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes
+23,Mild_Moderate,30-59,Male,Married,Secondary,High,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No
+24,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No
+25,Mild_Moderate,15-29,Male,Unmarried,Primary ,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+26,Mild_Moderate,15-29,Male,Unmarried,NA,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+27,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+28,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No
+29,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+30,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No
+31,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+32,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+33,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+34,Mild_Moderate,59+,Male,Married,Secondary,Low,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+35,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+36,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No
+37,Mild_Moderate,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No
+38,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+39,Mild_Moderate,30-59,Male,Married,Primary ,Low,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+40,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No
+41,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+42,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+43,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+44,Severe,NA,Male,Unmarried,NA,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+45,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+46,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+47,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+48,Mild_Moderate,NA,Male,Unmarried,Primary ,NA,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes
+49,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+50,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+51,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+52,Mild_Moderate,15-29,Female,NA,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+53,Mild_Moderate,30-59,Female,NA,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+54,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+55,Severe,30-59,Male,Married,Higher,Medium,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No
+56,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+57,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+58,Mild_Moderate,59+,Male,Married,Below Primary,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+59,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+60,Mild_Moderate,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+61,Mild_Moderate,59+,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+62,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes
+63,Mild_Moderate,15-29,Female,Unmarried,Below Primary,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+64,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+65,Severe,NA,Female,Unmarried,NA,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+66,Mild_Moderate,59+,Female,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+67,Mild_Moderate,15-29,Female,Unmarried,Secondary,Medium,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+68,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+69,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+70,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+71,Mild_Moderate,59+,Female,Married,Below Primary,Low,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No
+72,Severe,30-59,Male,Married,Primary ,Medium,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+73,Severe,15-29,Female,Married,Secondary,Medium,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes
+74,Mild_Moderate,30-59,Female,Married,Primary ,Low,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes
+75,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+76,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+77,Mild_Moderate,30-59,Female,Married,Primary ,High,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+78,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+79,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+80,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+81,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No
+82,Mild_Moderate,15-29,Male,Married,Higher,Low,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes
+83,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No
+84,Mild_Moderate,15-29,Female,Married,Secondary,Low,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+85,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+86,Mild_Moderate,30-59,Male,Married,NA,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+87,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes
+88,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes
+89,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+90,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+91,Severe,30-59,Male,Married,NA,Low,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes
+92,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+93,Severe,NA,Male,Unmarried,NA,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+94,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+95,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+96,Mild_Moderate,15-29,Male,Unmarried,Higher,Medium,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+97,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+98,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+99,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,No,No,No,No,No
+100,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes
+101,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes
+102,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+103,Mild_Moderate,59+,Female,Married,Below Primary,Low,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+104,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes
+105,Mild_Moderate,15-29,Female,Unmarried,Secondary,High,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+106,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No
+107,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+108,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes
+109,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+110,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes
+111,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+112,Severe,30-59,Female,Married,Higher,Medium,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+113,Mild_Moderate,15-29,Male,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+114,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+115,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+116,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+117,Severe,15-29,Male,NA,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+118,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+119,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+120,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No
+121,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+122,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+123,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+124,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+125,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+126,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+127,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+128,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,Yes,No,No,No,No,No,No,NA,Yes,No,No,NA,Yes
+129,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No
+130,Mild_Moderate,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+131,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+132,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+133,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,NA,Yes
+134,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+135,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+136,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+137,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+138,Mild_Moderate,15-29,Male,Married,Secondary,Low,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+139,Mild_Moderate,59+,Male,Married,Below Primary,No Income ,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes
+140,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+141,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes
+142,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+143,Mild_Moderate,15-29,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+144,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes
+145,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+146,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+147,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+148,Mild_Moderate,30-59,Male,Married,Below Primary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,NA
+149,Mild_Moderate,15-29,Female,Married,Higher,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+150,Mild_Moderate,15-29,Male,Married,Higher,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No
+151,Mild_Moderate,59+,Male,Married,Secondary,Low,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes
+152,Mild_Moderate,NA,Male,NA,NA,NA,No,No,No,No,NA,No,No,NA,NA,Yes,No,No,NA
+153,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes
+154,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+155,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+156,Mild_Moderate,15-29,Male,NA,Higher,No Income ,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+157,Mild_Moderate,30-59,Male,Married,Higher,Low,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+158,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes
+159,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+160,Mild_Moderate,30-59,Female,Married,Higher,Medium,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+161,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+162,Mild_Moderate,30-59,Female,NA,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+163,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+164,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+165,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+166,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+167,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes
+168,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+169,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+170,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes
+171,Mild_Moderate,15-29,Female,Unmarried,Secondary,High,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+172,Mild_Moderate,15-29,Female,Unmarried,Higher,Low,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes
+173,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+174,Severe,30-59,Female,Married,Primary ,Medium,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+175,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+176,Mild_Moderate,NA,Female,Unmarried,Below Primary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+177,Severe,15-29,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+178,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+179,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+180,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+181,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+182,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+183,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+184,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No
+185,Mild_Moderate,15-29,Female,Married,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+186,Severe,15-29,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+187,Mild_Moderate,15-29,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+188,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+189,Mild_Moderate,30-59,Female,Married,Secondary,High,Yes,No,No,No,Yes,No,No,NA,No,Yes,No,No,Yes
+190,Mild_Moderate,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+191,Mild_Moderate,15-29,Male,Unmarried,Secondary,NA,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+192,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+193,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+194,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+195,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes
+196,Severe,30-59,Male,Married,Secondary,Medium,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+197,Mild_Moderate,59+,Male,Married,Higher,High,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+198,Mild_Moderate,30-59,Male,Married,Higher,Low,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+199,Mild_Moderate,NA,Female,Unmarried,Primary ,High,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+200,Severe,15-29,Male,Unmarried,NA,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+201,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+202,Mild_Moderate,NA,Male,Unmarried,Primary ,High,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+203,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes
+204,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+205,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+206,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+207,Mild_Moderate,15-29,Male,Unmarried,Secondary,High,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+208,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+209,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes
+210,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+211,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+212,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+213,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes
+214,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+215,Mild_Moderate,15-29,Female,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+216,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+217,Mild_Moderate,59+,Male,Married,Higher,Low,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+218,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+219,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+220,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+221,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+222,Mild_Moderate,59+,Male,Married,Higher,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+223,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes
+224,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+225,Mild_Moderate,30-59,Female,Married,Higher,Low,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+226,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+227,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+228,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+229,Severe,59+,Male,Married,Higher,Medium,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+230,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+231,Severe,59+,Male,Married,Higher,Medium,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+232,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+233,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+234,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+235,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes
+236,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+237,Severe,15-29,Female,Unmarried,Higher,Low,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+238,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+239,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+240,Mild_Moderate,30-59,Male,Married,Higher,High,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+241,Mild_Moderate,15-29,Male,Married,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+242,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+243,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+244,Mild_Moderate,15-29,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+245,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+246,Severe,30-59,Female,Married,Higher,Medium,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes
+247,Severe,15-29,Female,Married,Higher,Medium,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+248,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+249,Mild_Moderate,30-59,Female,Unmarried,Secondary,Low,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+250,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes
+251,Mild_Moderate,15-29,Female,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+252,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes
+253,Mild_Moderate,15-29,Male,Unmarried,Primary ,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+254,Mild_Moderate,15-29,Male,Unmarried,Secondary,High,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+255,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+256,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+257,Severe,30-59,Female,Married,Primary ,Medium,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+258,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+259,Severe,30-59,Male,Married,Higher,Medium,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes
+260,Mild_Moderate,15-29,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+261,Mild_Moderate,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+262,Mild_Moderate,15-29,Male,Married,Higher,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+263,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+264,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+265,Mild_Moderate,30-59,Female,Married,Primary ,Low,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+266,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+267,Severe,15-29,Male,Married,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No
+268,Mild_Moderate,59+,Female,Married,Below Primary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+269,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+270,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+271,Severe,30-59,Female,Married,Secondary,Medium,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+272,Mild_Moderate,15-29,Male,Married,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+273,Severe,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+274,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+275,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+276,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+277,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+278,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+279,Severe,15-29,Female,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+280,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+281,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes
+282,Severe,59+,Male,Married,Secondary,Medium,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+283,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+284,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+285,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+286,Severe,30-59,Female,Unmarried,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes
+287,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+288,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+289,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+290,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+291,Mild_Moderate,15-29,Male,Married,Secondary,Low,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+292,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+293,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+294,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+295,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+296,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+297,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+298,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+299,Mild_Moderate,30-59,Female,Married,NA,No Income ,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+300,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+301,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+302,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+303,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+304,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+305,Mild_Moderate,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes
+306,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes
+307,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+308,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+309,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+310,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,Yes,Yes,NA,No,No,Yes
+311,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+312,Severe,30-59,Female,Married,Higher,Medium,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+313,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+314,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+315,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No
+316,Severe,59+,Male,Married,Secondary,Medium,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+317,Mild_Moderate,59+,Male,Married,Higher,High,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes
+318,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+319,Mild_Moderate,15-29,Male,Unmarried,Secondary,High,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+320,Mild_Moderate,30-59,Female,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+321,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+322,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+323,Mild_Moderate,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+324,Mild_Moderate,30-59,Female,Married,Below Primary,Low,No,No,No,No,No,No,No,No,No,No,No,No,No
+325,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+326,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+327,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+328,Severe,30-59,Male,Married,Primary ,Medium,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+329,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+330,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+331,Mild_Moderate,59+,Female,Married,Primary ,No Income ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+332,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+333,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+334,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+335,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+336,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+337,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+338,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+339,Mild_Moderate,15-29,Female,Unmarried,Secondary,High,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+340,Mild_Moderate,30-59,Female,Married,Higher,High,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+341,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes
+342,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+343,Mild_Moderate,15-29,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+344,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+345,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+346,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+347,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+348,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+349,Severe,59+,Male,Married,Higher,Medium,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes
+350,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+351,Mild_Moderate,15-29,Male,Married,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+352,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+353,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+354,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes
+355,Mild_Moderate,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+356,Mild_Moderate,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+357,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+358,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+359,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+360,Mild_Moderate,59+,Male,Married,Higher,High,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+361,Mild_Moderate,30-59,Female,Unmarried,Below Primary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+362,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+363,Severe,59+,Male,Married,Higher,Medium,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes
+364,Mild_Moderate,30-59,Female,Married,Higher,No Income ,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes
+365,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+366,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+367,Mild_Moderate,30-59,Female,Married,Higher,No Income ,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+368,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+369,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+370,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+371,Mild_Moderate,15-29,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+372,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+373,Mild_Moderate,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+374,Mild_Moderate,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+375,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+376,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+377,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+378,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes
+379,Mild_Moderate,30-59,Female,Married,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+380,Severe,30-59,Male,Married,Primary ,Medium,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+381,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes
+382,Mild_Moderate,30-59,Male,Married,Primary ,High,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes
+383,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+384,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,No,No,No,No
+385,Mild_Moderate,59+,Female,Married,Higher,No Income ,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+386,Severe,59+,Female,Married,Higher,Medium,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+387,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes
+388,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+389,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes
+390,Severe,59+,Male,Married,Secondary,Medium,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No
+391,Severe,59+,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+392,Mild_Moderate,NA,Male,Unmarried,Below Primary,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+393,Mild_Moderate,59+,Male,Married,Higher,High,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No
+394,Mild_Moderate,59+,Male,Married,Below Primary,High,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+395,Mild_Moderate,15-29,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes
+396,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+397,Severe,30-59,Male,Unmarried,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+398,Mild_Moderate,59+,Female,Married,Below Primary,No Income ,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+399,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes
+400,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+401,Mild_Moderate,NA,Female,Unmarried,Primary ,No Income ,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+402,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+403,Mild_Moderate,NA,Female,Unmarried,Below Primary,Low,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes
+404,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+405,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+406,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+407,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+408,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes
+409,Severe,15-29,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+410,Severe,30-59,Female,Married,Primary ,Medium,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes
+411,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+412,Mild_Moderate,15-29,Male,Unmarried,Secondary,High,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+413,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes
+414,Severe,30-59,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+415,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes
+416,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No
+417,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+418,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+419,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes
+420,Mild_Moderate,30-59,Female,Unmarried,Below Primary,No Income ,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+421,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+422,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+423,Severe,30-59,Male,Unmarried,Below Primary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+424,Severe,30-59,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+425,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+426,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+427,Mild_Moderate,30-59,Male,Married,Secondary,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+428,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes
+429,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+430,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No
+431,Mild_Moderate,30-59,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+432,Mild_Moderate,59+,Male,Married,Secondary,Low,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes
+433,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes
+434,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+435,Mild_Moderate,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+436,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+437,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+438,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+439,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+440,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+441,Mild_Moderate,NA,Male,Unmarried,Primary ,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+442,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+443,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+444,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+445,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+446,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No
+447,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+448,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+449,Severe,59+,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+450,Mild_Moderate,30-59,Male,Married,Higher,High,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+451,Mild_Moderate,15-29,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+452,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+453,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes
+454,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+455,Severe,30-59,Female,Married,Higher,Medium,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+456,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+457,Mild_Moderate,59+,Male,Married,Primary ,No Income ,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+458,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+459,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes
+460,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+461,Mild_Moderate,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+462,Mild_Moderate,59+,Male,Married,Higher,No Income ,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No
+463,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+464,Severe,30-59,Male,Married,Secondary,Medium,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+465,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+466,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+467,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+468,Severe,30-59,Female,Married,Higher,Medium,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+469,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+470,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+471,Mild_Moderate,30-59,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+472,Mild_Moderate,30-59,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+473,Mild_Moderate,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+474,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+475,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+476,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes
+477,Mild_Moderate,59+,Male,Married,Primary ,No Income ,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+478,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+479,Mild_Moderate,15-29,Female,Unmarried,Secondary,High,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+480,Mild_Moderate,30-59,Male,Unmarried,Primary ,Low,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No
+481,Severe,30-59,Female,Married,Primary ,Medium,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+482,Severe,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+483,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+484,Severe,30-59,Female,Married,Higher,Low,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes
+485,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+486,Severe,30-59,Female,Married,Higher,Low,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+487,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+488,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+489,Severe,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+490,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+491,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+492,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+493,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+494,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+495,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+496,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No
+497,Mild_Moderate,30-59,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+498,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+499,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+500,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+501,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+502,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+503,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+504,Severe,15-29,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+505,Severe,15-29,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+506,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+507,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+508,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+509,Severe,30-59,Male,Married,Below Primary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+510,Severe,30-59,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+511,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+512,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+513,Severe,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+514,Severe,59+,Male,Married,Primary ,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+515,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+516,Mild_Moderate,15-29,Female,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+517,Mild_Moderate,30-59,Female,Married,Primary ,Low,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes
+518,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+519,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+520,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+521,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+522,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+523,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+524,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+525,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+526,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+527,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+528,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+529,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+530,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+531,Mild_Moderate,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+532,Mild_Moderate,NA,Female,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+533,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+534,Severe,30-59,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+535,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+536,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+537,Mild_Moderate,15-29,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+538,Mild_Moderate,30-59,Male,Married,Below Primary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+539,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+540,Severe,30-59,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+541,Severe,30-59,Male,Married,Higher,Medium,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No
+542,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+543,Severe,59+,Male,Married,Secondary,Medium,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes
+544,Severe,59+,Female,Married,Primary ,Medium,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes
+545,Severe,15-29,Male,Married,Higher,Low,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+546,Mild_Moderate,15-29,Female,Married,Higher,Low,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes
+547,Severe,30-59,Female,Married,Higher,Medium,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+548,Severe,15-29,Male,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+549,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+550,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+551,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+552,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes
+553,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+554,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+555,Severe,59+,Male,Married,Higher,Medium,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes
+556,Mild_Moderate,30-59,Female,Married,Higher,No Income ,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+557,Mild_Moderate,15-29,Male,Unmarried,Higher,Medium,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No
+558,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+559,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+560,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No
+561,Severe,30-59,Female,Married,Primary ,Medium,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes
+562,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes
+563,Mild_Moderate,59+,Female,Married,Higher,No Income ,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+564,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No
+565,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No
+566,Mild_Moderate,15-29,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+567,Mild_Moderate,15-29,Female,Married,Secondary,High,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+568,Mild_Moderate,59+,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes
+569,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+570,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+571,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+572,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+573,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+574,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+575,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+576,Mild_Moderate,15-29,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+577,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes
+578,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+579,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+580,Severe,59+,Female,Married,Higher,Low,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+581,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+582,Severe,15-29,Female,Married,Higher,Medium,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+583,Severe,59+,Male,Married,Higher,Medium,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+584,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No
+585,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,NA,No,No,NA,NA,NA,No,NA,NA
+586,Mild_Moderate,15-29,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+587,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+588,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+589,Severe,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+590,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+591,Mild_Moderate,30-59,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+592,Mild_Moderate,30-59,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes
+593,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+594,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+595,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+596,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+597,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+598,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+599,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+600,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+601,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+602,Mild_Moderate,15-29,Female,Married,Higher,High,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+603,Mild_Moderate,15-29,Male,Married,Primary ,No Income ,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+604,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+605,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+606,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+607,Severe,30-59,Male,Unmarried,Higher,Medium,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+608,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+609,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+610,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No
+611,Severe,59+,Female,Married,Higher,Medium,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes
+612,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+613,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes
+614,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+615,Mild_Moderate,15-29,Female,NA,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No
+616,Mild_Moderate,59+,Male,Married,Below Primary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+617,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes
+618,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+619,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+620,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+621,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+622,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+623,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes
+624,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,No,No,No,No,No
+625,Mild_Moderate,15-29,Female,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+626,Severe,30-59,Female,Married,Higher,Medium,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+627,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+628,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+629,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+630,Severe,30-59,Female,Married,Higher,Medium,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No
+631,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes
+632,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+633,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+634,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+635,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No
+636,Mild_Moderate,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+637,Severe,15-29,Male,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+638,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+639,Severe,59+,Male,Married,Higher,Medium,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+640,Severe,15-29,Female,Unmarried,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+641,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+642,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+643,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+644,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+645,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes
+646,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes
+647,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes
+648,Mild_Moderate,15-29,Female,Married,Primary ,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+649,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+650,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+651,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No
+652,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+653,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+654,Mild_Moderate,15-29,Female,Married,Primary ,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+655,Mild_Moderate,30-59,Female,Married,Below Primary,Low,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes
+656,Severe,30-59,Male,Married,Higher,Medium,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No
+657,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No
+658,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No
+659,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+660,Mild_Moderate,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+661,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+662,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+663,Severe,30-59,Female,Married,Higher,Medium,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+664,Severe,15-29,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+665,Severe,NA,Female,NA,Below Primary,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+666,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+667,Severe,30-59,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes
+668,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+669,Mild_Moderate,30-59,Male,Married,Higher,Medium,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+670,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+671,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No
+672,Mild_Moderate,59+,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+673,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+674,Severe,15-29,Male,Unmarried,Primary ,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+675,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+676,Mild_Moderate,59+,Female,Married,Secondary,NA,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+677,Severe,NA,Male,Unmarried,Primary ,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+678,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+679,Severe,30-59,Female,Married,Higher,Medium,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+680,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+681,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+682,Mild_Moderate,NA,Female,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,NA,Yes
+683,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+684,Mild_Moderate,15-29,Male,Unmarried,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+685,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+686,Mild_Moderate,15-29,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes
+687,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+688,Severe,15-29,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+689,Mild_Moderate,30-59,Male,Married,Below Primary,Low,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes
+690,Severe,30-59,Male,Married,Higher,Medium,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+691,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+692,Mild_Moderate,30-59,Female,Married,Primary ,NA,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+693,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+694,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+695,Mild_Moderate,30-59,Female,Married,Higher,High,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+696,Severe,59+,Male,Married,Higher,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+697,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+698,Severe,30-59,Male,Married,Secondary,Medium,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No
+699,Mild_Moderate,15-29,Male,Married,Primary ,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+700,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+701,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+702,Severe,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+703,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+704,Severe,30-59,Male,Married,Primary ,Medium,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes
+705,Mild_Moderate,30-59,Female,Married,Higher,High,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+706,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+707,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+708,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+709,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+710,Mild_Moderate,15-29,Male,NA,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+711,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+712,Mild_Moderate,15-29,Male,Married,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No
+713,Mild_Moderate,59+,Male,Married,Higher,High,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+714,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+715,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+716,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+717,Mild_Moderate,15-29,Female,Unmarried,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+718,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+719,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+720,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+721,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+722,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+723,Mild_Moderate,59+,Male,Married,Secondary,No Income ,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes
+724,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+725,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+726,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+727,Mild_Moderate,15-29,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes
+728,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+729,Mild_Moderate,NA,Male,Unmarried,Primary ,High,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+730,Severe,15-29,Male,Married,Higher,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+731,Severe,15-29,Female,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+732,Mild_Moderate,15-29,Female,Married,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+733,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+734,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+735,Mild_Moderate,59+,Male,Married,Primary ,Low,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+736,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+737,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+738,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes
+739,Mild_Moderate,15-29,Male,Married,Secondary,Low,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+740,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+741,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+742,Mild_Moderate,15-29,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes
+743,Mild_Moderate,30-59,Female,Married,Higher,No Income ,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+744,Severe,59+,Male,Married,Secondary,Medium,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes
+745,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+746,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+747,Mild_Moderate,15-29,Female,Married,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+748,Mild_Moderate,NA,Male,Unmarried,Below Primary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+749,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+750,Mild_Moderate,15-29,Female,Married,Primary ,No Income ,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes
+751,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+752,Severe,30-59,Female,Married,Primary ,Medium,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+753,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+754,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No
+755,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+756,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+757,Mild_Moderate,30-59,Female,Married,Higher,High,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+758,Mild_Moderate,30-59,Male,NA,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+759,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+760,Mild_Moderate,30-59,Female,Married,Primary ,Low,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes
+761,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+762,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+763,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes
+764,Severe,15-29,Female,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+765,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+766,Severe,15-29,Male,Married,Higher,Low,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes
+767,Mild_Moderate,30-59,Female,Married,Secondary,High,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+768,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+769,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+770,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+771,Severe,30-59,Male,Married,NA,Low,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+772,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+773,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+774,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+775,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes
+776,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+777,Mild_Moderate,59+,Male,Married,Below Primary,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+778,Mild_Moderate,30-59,Female,Married,Secondary,Low,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No
+779,Severe,30-59,Female,Married,Secondary,Medium,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+780,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+781,Severe,30-59,Male,Married,Higher,Low,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+782,Mild_Moderate,NA,Female,Unmarried,Primary ,High,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+783,Mild_Moderate,NA,Female,Unmarried,Primary ,High,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+784,Severe,30-59,Female,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,NA,No,No,Yes
+785,Severe,30-59,Male,Married,Higher,Low,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+786,Mild_Moderate,NA,Male,Unmarried,Secondary,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No
+787,Severe,15-29,Female,Married,NA,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+788,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+789,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+790,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+791,Severe,NA,Female,Unmarried,NA,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+792,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+793,Mild_Moderate,15-29,Male,NA,Primary ,No Income ,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+794,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+795,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes
+796,Mild_Moderate,NA,Male,Unmarried,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+797,Mild_Moderate,59+,Male,Married,Secondary,Low,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+798,Severe,NA,Male,Unmarried,Below Primary,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+799,Severe,30-59,Male,Married,Primary ,Medium,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+800,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+801,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+802,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+803,Severe,30-59,Male,Married,Primary ,Medium,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+804,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes
+805,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+806,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+807,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+808,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+809,Severe,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+810,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+811,Severe,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+812,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+813,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+814,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+815,Severe,59+,Male,Married,Primary ,Medium,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+816,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+817,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+818,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+819,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No
+820,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+821,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes
+822,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+823,Severe,59+,Male,Married,Higher,Medium,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes
+824,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+825,Severe,30-59,Male,Married,Secondary,Medium,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+826,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+827,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No
+828,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+829,Mild_Moderate,NA,Female,Unmarried,Below Primary,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+830,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes
+831,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No
+832,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+833,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+834,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+835,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+836,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+837,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+838,Mild_Moderate,NA,Female,Unmarried,Primary ,No Income ,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+839,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+840,Mild_Moderate,30-59,Male,Married,Primary ,Medium,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes
+841,Mild_Moderate,15-29,Female,Married,Below Primary,No Income ,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+842,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+843,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+844,Severe,30-59,Male,Married,Higher,Medium,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes
+845,Mild_Moderate,15-29,Male,Unmarried,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+846,Mild_Moderate,15-29,Male,Married,Secondary,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+847,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+848,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+849,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+850,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+851,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+852,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+853,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No
+854,Mild_Moderate,15-29,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+855,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+856,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No
+857,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+858,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+859,Severe,15-29,Male,Married,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+860,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+861,Severe,30-59,Male,Married,Secondary,Medium,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+862,Mild_Moderate,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+863,Mild_Moderate,59+,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+864,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+865,Severe,59+,Male,Married,Higher,Low,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+866,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+867,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+868,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+869,Mild_Moderate,15-29,Female,Unmarried,Primary ,No Income ,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+870,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+871,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes
+872,Mild_Moderate,15-29,Male,Unmarried,Higher,Medium,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+873,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+874,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No
+875,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes
+876,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No
+877,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,NA,NA,No,NA,Yes
+878,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+879,Mild_Moderate,30-59,Male,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+880,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+881,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+882,Mild_Moderate,15-29,Female,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+883,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+884,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+885,Mild_Moderate,30-59,Male,Married,Secondary,Medium,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes
+886,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+887,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+888,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+889,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes
+890,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+891,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+892,Mild_Moderate,NA,Female,Unmarried,Primary ,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+893,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+894,Severe,30-59,Male,Married,Higher,Medium,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes
+895,Severe,15-29,Female,Unmarried,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+896,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+897,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+898,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+899,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+900,Severe,15-29,Male,Married,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+901,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+902,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+903,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+904,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes
+905,Mild_Moderate,15-29,Male,Unmarried,Secondary,Medium,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+906,Severe,30-59,Male,Married,Higher,Medium,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+907,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+908,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+909,Severe,59+,Male,Married,Below Primary,Medium,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+910,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+911,Mild_Moderate,30-59,Female,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+912,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+913,Mild_Moderate,59+,Male,Married,Secondary,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+914,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+915,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+916,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+917,Mild_Moderate,NA,Male,Unmarried,Primary ,Low,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No
+918,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+919,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes
+920,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes
+921,Severe,30-59,Male,Married,Primary ,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+922,Mild_Moderate,15-29,Female,Married,Secondary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+923,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+924,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+925,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+926,Mild_Moderate,15-29,Male,Unmarried,Primary ,Low,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes
+927,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+928,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+929,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No
+930,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+931,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+932,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+933,Severe,30-59,Male,Married,Higher,Low,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+934,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+935,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+936,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+937,Severe,30-59,Female,Married,Higher,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+938,Mild_Moderate,30-59,Male,Married,Secondary,Low,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+939,Severe,15-29,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+940,Mild_Moderate,59+,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+941,Severe,15-29,Female,Married,Primary ,Medium,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+942,Severe,59+,Female,Married,Higher,Low,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+943,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+944,Mild_Moderate,30-59,Female,Married,Secondary,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+945,Mild_Moderate,15-29,Male,Married,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+946,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+947,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+948,Mild_Moderate,59+,Male,Married,Primary ,Low,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No
+949,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+950,Mild_Moderate,30-59,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+951,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+952,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+953,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+954,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+955,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No
+956,Mild_Moderate,15-29,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No
+957,Severe,59+,Male,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+958,Mild_Moderate,NA,Male,Unmarried,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+959,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+960,Mild_Moderate,30-59,Female,Married,Higher,No Income ,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No
+961,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+962,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No
+963,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+964,Mild_Moderate,15-29,Female,Unmarried,Secondary,High,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+965,Severe,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+966,Mild_Moderate,15-29,Female,Unmarried,Secondary,High,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No
+967,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+968,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+969,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+970,Mild_Moderate,15-29,Female,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+971,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes
+972,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+973,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+974,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+975,Severe,30-59,Female,Married,Higher,Medium,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+976,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+977,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes
+978,Mild_Moderate,15-29,Male,Unmarried,Secondary,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No
+979,Severe,15-29,Male,Married,Secondary,Medium,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes
+980,Mild_Moderate,30-59,Male,Married,Primary ,No Income ,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+981,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+982,Severe,15-29,Female,Married,Higher,Low,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+983,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+984,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+985,Mild_Moderate,15-29,Male,Married,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+986,Mild_Moderate,15-29,Male,Married,Below Primary,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+987,Mild_Moderate,30-59,Male,Married,Below Primary,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+988,Severe,30-59,Male,Married,Higher,Medium,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes
+989,Mild_Moderate,NA,Female,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+990,Mild_Moderate,30-59,Female,Married,Secondary,No Income ,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes
+991,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+992,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+993,Severe,30-59,Male,Married,Higher,Medium,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+994,Mild_Moderate,30-59,Male,Married,Secondary,Low,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+995,Mild_Moderate,30-59,Female,Married,Below Primary,No Income ,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+996,Mild_Moderate,NA,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+997,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+998,Mild_Moderate,15-29,Male,Unmarried,Higher,Low,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+999,Mild_Moderate,15-29,Female,Married,Secondary,Low,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes
+1000,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+1001,Mild_Moderate,30-59,Male,Married,Primary ,Low,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes
+1002,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+1003,Mild_Moderate,NA,Female,Unmarried,Primary ,Low,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+1004,Mild_Moderate,15-29,Male,Unmarried,Primary ,No Income ,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+1005,Severe,15-29,Male,Married,Primary ,Medium,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+1006,Mild_Moderate,30-59,Male,Married,Below Primary,No Income ,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+1007,Severe,59+,Male,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,No,No,No,No
+1008,Mild_Moderate,30-59,Female,Married,Primary ,No Income ,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+1009,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+1010,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes
+1011,Mild_Moderate,NA,Female,Unmarried,Below Primary,No Income ,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+1012,Mild_Moderate,15-29,Female,Unmarried,Higher,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+1013,Severe,30-59,Female,Married,Higher,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+1014,Mild_Moderate,15-29,Female,Unmarried,Secondary,Low,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes
+1015,Severe,30-59,Female,Married,Higher,Low,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+1016,Severe,59+,Female,Unmarried,Secondary,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+1017,Mild_Moderate,59+,Male,Married,Primary ,Low,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+1018,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+1019,Severe,30-59,Female,Married,Higher,Low,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+1020,Mild_Moderate,15-29,Female,Unmarried,Primary ,Low,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+1021,Mild_Moderate,15-29,Male,Unmarried,Secondary,No Income ,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes
+1022,Mild_Moderate,15-29,Female,Unmarried,Primary ,Low,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+1023,Mild_Moderate,30-59,Male,Married,Secondary,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+1024,Mild_Moderate,30-59,Male,Married,Higher,High,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+1025,Severe,59+,Female,Married,Higher,Medium,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+1026,Severe,30-59,Male,Married,Higher,Medium,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+1027,Severe,59+,Male,Married,Higher,Medium,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+1028,Severe,30-59,Male,Married,Higher,Low,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+1029,Severe,30-59,Male,Married,Higher,Low,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+1030,Severe,30-59,Male,Married,Secondary,Medium,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+1031,Mild_Moderate,15-29,Male,Unmarried,Higher,No Income ,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes
+1032,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+1033,Severe,30-59,Female,Married,Higher,Medium,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+1034,Severe,30-59,Male,Married,Higher,Medium,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+1035,Mild_Moderate,30-59,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+1036,Mild_Moderate,30-59,Female,Married,Higher,No Income ,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+1037,Mild_Moderate,15-29,Female,Married,Higher,No Income ,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+1038,Mild_Moderate,15-29,Male,Married,Secondary,Low,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+1039,Severe,15-29,Female,Married,Higher,Medium,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+1040,Severe,30-59,Male,Married,Higher,Low,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+1041,Mild_Moderate,15-29,Female,Married,Higher,No Income ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No
